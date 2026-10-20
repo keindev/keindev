@@ -1,1 +1,1 @@
-<p align="center"><img src="./images/boards/comics.png" alt="comics"></p>
+<p align="center"><img src="./images/comics/work.png" alt="comics"></p>
